@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: chat-dc16-cap
+  host: chat-dc16-cap
+  disk_quota: 1024M
